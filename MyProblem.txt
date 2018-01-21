@@ -1,0 +1,4 @@
+bracelet 5 10
+ring 4 40
+hat 6 30
+hammer 3 50 
